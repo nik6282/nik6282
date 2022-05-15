@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nikolay Vyglazov (@nik6282)
 - 👀 I’m interested in Web development and IT.
-- 🌱 I’m currently learning Yandex Practicum Project 4
+- 🌱 I’m currently learning Yandex Practicum Web Development
 - 💞️ I’m looking to collaborate on Pet Project for Yandex Practicum 46th Group
 - 📫 How to reach me...
   by email: nikvyglazov@yandex.ru
