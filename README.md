@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Nikolay Vyglazov (@nik6282)
-- 👀 I’m interested in Web development and IT.
-- 🌱 I’m currently learning Yandex Practicum Web Development
-- 💞️ I’m looking to collaborate on Pet Project for Yandex Practicum 46th Group
+- 👀 I’m interested in IT services and technologies.
+- 🌱 I’m currently MySQL
 - 📫 How to reach me...
-  by email: nikvyglazov@yandex.ru
+  by email: nikolay.nvservice@gmail.com
 
 <!---
 nik6282/nik6282 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
